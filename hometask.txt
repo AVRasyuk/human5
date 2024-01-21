@@ -1,0 +1,3 @@
+В ветке demo отсутствует commit (fix readme)
+Последовательность master: heat + (boots + dot)
+Последовательность origin/demo: (heat + boots) + dot
