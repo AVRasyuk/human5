@@ -1,3 +1,16 @@
 В ветке demo отсутствует commit (fix readme)
 Последовательность master: heat + (boots + dot)
 Последовательность origin/demo: (heat + boots) + dot
+
+всего 11 Commits:
+Добавление списка Commits
+Добавление hometask.txt (сравнение master и origin/demo)
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
